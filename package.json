@@ -18,7 +18,7 @@
   "dependencies": {
     "@pulumi/aws": "^6.25.0",
     "@pulumi/awsx": "^2.22.0",
-    "@pulumi/pulumi": "^3.248.0"
+    "@pulumi/pulumi": "^3.253.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.26"
